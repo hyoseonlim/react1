@@ -1,0 +1,14 @@
+.App {
+  padding: 5px;
+}
+
+.blue_bar{
+  padding-left: 20px;
+  background-color: cornflowerblue;
+  color: gold;
+}
+
+.list{
+  padding-left: 20px;
+  margin-top: 20px;
+}
