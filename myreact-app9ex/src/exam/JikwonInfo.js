@@ -27,7 +27,7 @@ const MyAjax = () => {
             // setIsLoaded 읽기
             (result) => {
                 setIsLoaded(true);
-                setJikwons(result.jikwons);
+                setJikwons(result.data);
             },
             (error) => {
                 setIsLoaded(true);
